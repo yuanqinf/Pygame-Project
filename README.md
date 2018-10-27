@@ -1,2 +1,2 @@
 # Pygame-Project
-//new
+This is a traditional Space Shooter game created by using Python
